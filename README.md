@@ -18,10 +18,16 @@ list details of all files in current directory including hidden files
    ### cd /
       go to root directury
       回到根目录
-   ### cd /(home)
+   ### cd /~~home~~
       ubsolute directury 
       绝对路径
-   ### cd ./()
+   ### cd ./~~home~~
+      go to directury from current directory
+      相对路径
+##
+
+
+
 
 
 
